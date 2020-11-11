@@ -81,4 +81,4 @@ Next, I created a hotel dataframe and used the google api to pull in the closet 
 
 ![hotels](Images/hotels.png)
 
-![locations](Images/locations)
+![locations](Images/locations.png)
